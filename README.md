@@ -29,7 +29,7 @@ The app will be available at [http://localhost:5173](http://localhost:5173)
 
 Make sure you have PHP installed.
 
-From the project root (where `server.php` is located), run:
+From the project root (in src/ folder), run:
 
 ```bash
 php -S localhost:8000 -t .
